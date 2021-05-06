@@ -1,0 +1,19 @@
+{
+    "name": "paladin/stats-osrs",
+    "description": "Wordpress plugin for managing osrs data.",
+    "type": "library",
+    "license": "NOLv3",
+    "authors": [
+        {
+            "name": "Edward Parkhomovich",
+            "email": "ritefact@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+    }
+}
